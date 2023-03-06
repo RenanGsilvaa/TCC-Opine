@@ -1,1 +1,1 @@
-# Projeto de tcc Etec Guararapes.
+# Projeto de tcc Etec Guararapes.qa
