@@ -9,6 +9,7 @@ class Usuario extends Model
 {
     protected $fillable = [
         'nome',
+        'senha',
         'cpf'
     ];
 }
